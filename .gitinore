@@ -1,0 +1,9 @@
+build/
+*.o
+*.exe
+*.out
+*.log
+*.csv
+.vscode/
+__pycache__/
+*.pyc
