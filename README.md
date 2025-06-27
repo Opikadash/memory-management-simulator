@@ -29,7 +29,7 @@
 ### 🛠️ Build Instructions
 
 ```bash
-git clone https://github.com/<your-username>/MemoryManagementSimulator.git
+git clone https://github.com/Opikadash/memory-management-simulator.git
 cd MemoryManagementSimulator
 cmake -B build
 cmake --build build
